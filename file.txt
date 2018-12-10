@@ -1,4 +1,4 @@
 1. git is a tool.
 2. stupid man still use svn.
 3. Create a new branch dev is quick and simple.
-4. New branch is added.
+4. New branch named feature1 is added.
