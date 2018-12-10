@@ -1,1 +1,2 @@
-1. git is a too
+1. git is a tool.
+2. stupid man still use svn.
